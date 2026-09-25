@@ -1,14 +1,54 @@
 {
-  "keys": [
-    { "key": "IOS-CHEAT-1611208",   "device": "", "note": "cha văn trực free" },
-    { "key": "IOS-CHEAT-16022011",  "device": "", "note": "cha văn trực free" },
-    { "key": "IOS-CHEAT-191817",    "device": "", "note": "" },
-    { "key": "IOS-CHEAT-181716",    "device": "", "note": "cha văn trực free" },
-    { "key": "IOS-CHEAT-171615",    "device": "", "note": "cha văn trực free" },
-    { "key": "IOS-CHEAT-161514",    "device": "", "note": "cha văn trực free" },
-    { "key": "IOS-CHEAT-151413",    "device": "", "note": "cha văn trực free" },
-    { "key": "IOS-CHEAT-141312",    "device": "", "note": "cha văn trực free" },
-    { "key": "IOS-CHEAT-131211",    "device": "", "note": "cha văn trực free" },
-    { "key": "IOS-CHEAT-123321",    "device": "", "note": "cha văn trực free" }
+  "keys" : [
+    {
+      "key" : "IOS-CHEAT-1611208",
+      "device" : "2D1DC38D",
+      "note" : "cha văn trực free"
+    },
+    {
+      "key" : "IOS-CHEAT-16022011",
+      "device" : "",
+      "note" : "cha văn trực free"
+    },
+    {
+      "key" : "IOS-CHEAT-191817",
+      "device" : "",
+      "note" : ""
+    },
+    {
+      "key" : "IOS-CHEAT-181716",
+      "device" : "",
+      "note" : "cha văn trực free"
+    },
+    {
+      "key" : "IOS-CHEAT-171615",
+      "device" : "",
+      "note" : "cha văn trực free"
+    },
+    {
+      "key" : "IOS-CHEAT-161514",
+      "device" : "",
+      "note" : "cha văn trực free"
+    },
+    {
+      "key" : "IOS-CHEAT-151413",
+      "device" : "",
+      "note" : "cha văn trực free"
+    },
+    {
+      "key" : "IOS-CHEAT-141312",
+      "device" : "",
+      "note" : "cha văn trực free"
+    },
+    {
+      "key" : "IOS-CHEAT-131211",
+      "device" : "",
+      "note" : "cha văn trực free"
+    },
+    {
+      "key" : "IOS-CHEAT-123321",
+      "device" : "",
+      "note" : "cha văn trực free"
+    }
   ]
 }
