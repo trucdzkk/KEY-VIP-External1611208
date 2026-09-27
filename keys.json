@@ -1,8 +1,24 @@
 {
-  "keys": [
-    { "key": "IOS-CHEAT-1611208",    "device": "", "days": 999 },
-    { "key": "IOS-CHEAT-16022011",   "device": "", "days": 999 },
-    { "key": "IOS-CHEAT-VtrucFree1", "device": "", "days": 1 },
-    { "key": "IOS-CHEAT-VtrucFree2", "device": "", "days": 1 }
+  "keys" : [
+    {
+      "key" : "IOS-CHEAT-1611208",
+      "device" : "4946531E",
+      "days" : 999
+    },
+    {
+      "key" : "IOS-CHEAT-16022011",
+      "device" : "",
+      "days" : 999
+    },
+    {
+      "key" : "IOS-CHEAT-VtrucFree1",
+      "device" : "",
+      "days" : 1
+    },
+    {
+      "key" : "IOS-CHEAT-VtrucFree2",
+      "device" : "",
+      "days" : 1
+    }
   ]
 }
