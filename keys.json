@@ -2,8 +2,8 @@
   "keys" : [
     {
       "key" : "IOS-CHEAT-1611208",
-      "device" : "04FB79D7",
-      "days" : 999
+      "device" : "",
+      "days" : 2
     },
     {
       "key" : "IOS-CHEAT-1602211",
@@ -62,27 +62,62 @@
     },
     {
       "key" : "IOS-CHEAT-VTRUCFREE11",
-      "device" : "94672324",
+      "device" : "",
       "days" : 1
     },
     {
       "key" : "IOS-CHEAT-VTRUCFREE12",
-      "device" : "838915E7",
+      "device" : "",
       "days" : 1
     },
     {
       "key" : "IOS-CHEAT-VTRUCFREE13",
-      "device" : "A3E6E863",
+      "device" : "",
       "days" : 1
     },
     {
       "key" : "IOS-CHEAT-VTRUCFREE14",
-      "device" : "1EE7417D",
+      "device" : "",
       "days" : 1
     },
     {
       "key" : "IOS-CHEAT-VTRUCFREE15",
-      "device" : "8B5C5D48",
+      "device" : "",
+      "days" : 1
+    },
+    {
+      "key" : "IOS-CHEAT-VTRUCFREE16",
+      "device" : "",
+      "days" : 1
+    },
+    {
+      "key" : "IOS-CHEAT-VTRUCFREE17",
+      "device" : "",
+      "days" : 1
+    },
+    {
+      "key" : "IOS-CHEAT-VTRUCFREE18",
+      "device" : "",
+      "days" : 1
+    },
+    {
+      "key" : "IOS-CHEAT-VTRUCFREE19",
+      "device" : "",
+      "days" : 1
+    },
+    {
+      "key" : "IOS-CHEAT-VTRUCFREE20",
+      "device" : "",
+      "days" : 1
+    },
+    {
+      "key" : "IOS-CHEAT-VTRUCFREE21",
+      "device" : "",
+      "days" : 1
+    },
+    {
+      "key" : "IOS-CHEAT-VTRUCFREE22",
+      "device" : "",
       "days" : 1
     }
   ]
